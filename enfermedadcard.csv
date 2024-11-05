@@ -1,0 +1,464 @@
+Edad,Sexo,Tipo_Dolor_Pecho,Presion_Arterial_Reposo,Colesterol,Glicemia_Basal_Mayor_120,ECG_Reposo,Frecuencia_Cardiaca_Max,Angina_Ejercicio,Depresion_ST,Pendiente_ST,Estado
+54,masculino,dolor no anginoso,150,195,falso,normal,122,no,0.0,subida,normal
+54,masculino,angina atípica,110,208,falso,normal,142,no,0.0,subida,normal
+58,masculino,angina atípica,136,164,falso,anormalidad de la onda ST-T,99,si,2.0,plano,enfermedad cardiovascular
+54,femenino,angina atípica,120,273,falso,normal,150,no,1.5,plano,normal
+60,masculino,asintomático,100,248,falso,normal,125,no,1.0,plano,enfermedad cardiovascular
+53,masculino,asintomático,124,260,falso,anormalidad de la onda ST-T,112,si,3.0,plano,normal
+52,masculino,angina atípica,120,284,falso,normal,118,no,0.0,subida,normal
+53,femenino,angina atípica,113,468,falso,normal,127,no,0.0,subida,normal
+51,masculino,angina atípica,125,188,falso,normal,145,no,0.0,subida,normal
+53,masculino,dolor no anginoso,145,518,falso,normal,130,no,0.0,plano,enfermedad cardiovascular
+56,masculino,dolor no anginoso,130,167,falso,normal,114,no,0.0,subida,normal
+54,masculino,asintomático,125,224,falso,normal,122,no,2.0,plano,enfermedad cardiovascular
+65,masculino,asintomático,140,306,verdadero,normal,87,si,1.5,plano,enfermedad cardiovascular
+54,femenino,angina atípica,150,230,falso,normal,130,no,0.0,subida,normal
+54,femenino,dolor no anginoso,130,294,falso,anormalidad de la onda ST-T,100,si,0.0,plano,enfermedad cardiovascular
+52,masculino,dolor no anginoso,140,259,falso,anormalidad de la onda ST-T,170,no,0.0,subida,normal
+59,masculino,dolor no anginoso,130,318,falso,normal,120,si,1.0,plano,normal
+50,masculino,angina atípica,140,216,falso,normal,170,no,0.0,subida,normal
+50,masculino,asintomático,130,233,falso,normal,121,si,2.0,plano,enfermedad cardiovascular
+52,femenino,asintomático,130,180,falso,normal,140,si,1.5,plano,normal
+51,femenino,angina atípica,160,194,falso,normal,170,no,0.0,subida,normal
+58,masculino,dolor no anginoso,130,213,falso,anormalidad de la onda ST-T,140,no,0.0,plano,enfermedad cardiovascular
+54,masculino,asintomático,150,365,falso,anormalidad de la onda ST-T,134,no,1.0,subida,normal
+52,masculino,asintomático,112,342,falso,anormalidad de la onda ST-T,96,si,1.0,plano,enfermedad cardiovascular
+50,femenino,angina atípica,110,202,falso,normal,145,no,0.0,subida,normal
+52,masculino,asintomático,160,246,falso,anormalidad de la onda ST-T,82,si,4.0,plano,enfermedad cardiovascular
+57,masculino,angina atípica,140,265,falso,anormalidad de la onda ST-T,145,si,1.0,plano,enfermedad cardiovascular
+52,masculino,asintomático,120,182,falso,normal,150,no,0.0,plano,enfermedad cardiovascular
+55,masculino,asintomático,140,268,falso,normal,128,si,1.5,plano,enfermedad cardiovascular
+55,masculino,dolor no anginoso,110,277,falso,normal,160,no,0.0,subida,normal
+54,masculino,angina atípica,120,238,falso,normal,154,no,0.0,subida,normal
+63,masculino,asintomático,150,223,falso,normal,115,no,0.0,plano,enfermedad cardiovascular
+52,masculino,angina atípica,160,196,falso,normal,165,no,0.0,subida,normal
+56,masculino,asintomático,150,213,verdadero,normal,125,si,1.0,plano,enfermedad cardiovascular
+66,masculino,asintomático,140,139,falso,normal,94,si,1.0,plano,enfermedad cardiovascular
+65,masculino,asintomático,170,263,verdadero,normal,112,si,2.0,plano,enfermedad cardiovascular
+53,femenino,angina atípica,140,216,falso,normal,142,si,2.0,plano,normal
+55,masculino,asintomático,140,229,falso,normal,110,si,0.5,plano,normal
+52,femenino,angina atípica,120,210,falso,normal,148,no,0.0,subida,normal
+58,masculino,asintomático,130,263,falso,normal,140,si,2.0,plano,enfermedad cardiovascular
+65,masculino,asintomático,130,275,falso,anormalidad de la onda ST-T,115,si,1.0,plano,enfermedad cardiovascular
+51,masculino,asintomático,130,179,falso,normal,100,no,0.0,subida,normal
+57,masculino,angina atípica,140,260,verdadero,normal,140,no,0.0,subida,normal
+50,masculino,asintomático,140,129,falso,normal,135,no,0.0,subida,normal
+59,femenino,angina atípica,130,188,falso,normal,124,no,1.0,plano,normal
+57,masculino,asintomático,150,255,falso,normal,92,si,3.0,plano,enfermedad cardiovascular
+59,femenino,asintomático,130,338,verdadero,anormalidad de la onda ST-T,130,si,1.5,plano,enfermedad cardiovascular
+52,femenino,dolor no anginoso,125,272,falso,normal,139,no,0.0,subida,normal
+58,masculino,angina atípica,130,230,falso,normal,150,no,0.0,subida,normal
+54,masculino,angina atípica,120,246,falso,normal,110,no,0.0,subida,normal
+54,femenino,angina atípica,120,230,verdadero,normal,140,no,0.0,subida,normal
+56,masculino,asintomático,170,388,falso,anormalidad de la onda ST-T,122,si,2.0,plano,enfermedad cardiovascular
+56,masculino,asintomático,150,230,falso,anormalidad de la onda ST-T,124,si,1.5,plano,enfermedad cardiovascular
+61,femenino,asintomático,130,294,falso,anormalidad de la onda ST-T,120,si,1.0,plano,normal
+54,masculino,asintomático,140,166,falso,normal,118,si,0.0,plano,enfermedad cardiovascular
+52,masculino,asintomático,160,331,falso,normal,94,si,2.5,plano,enfermedad cardiovascular
+50,masculino,asintomático,140,341,falso,anormalidad de la onda ST-T,125,si,2.5,plano,enfermedad cardiovascular
+53,masculino,asintomático,140,243,falso,normal,155,no,0.0,subida,normal
+56,femenino,angina atípica,120,279,falso,normal,150,no,1.0,plano,enfermedad cardiovascular
+50,masculino,angina atípica,120,168,falso,normal,160,no,0.0,subida,normal
+54,masculino,asintomático,130,603,verdadero,normal,125,si,1.0,plano,enfermedad cardiovascular
+55,masculino,asintomático,120,270,falso,normal,140,no,0.0,subida,normal
+56,masculino,asintomático,155,342,verdadero,normal,150,si,3.0,plano,enfermedad cardiovascular
+54,masculino,angina atípica,160,195,falso,anormalidad de la onda ST-T,130,no,1.0,subida,normal
+59,masculino,asintomático,140,264,verdadero,hipertrofia del ventriculo izq,119,si,0.0,plano,enfermedad cardiovascular
+52,femenino,angina atípica,140,225,falso,normal,140,no,0.0,subida,normal
+50,masculino,asintomático,140,231,falso,anormalidad de la onda ST-T,140,si,5.0,plano,enfermedad cardiovascular
+58,masculino,asintomático,135,222,falso,normal,100,no,0.0,subida,normal
+58,masculino,dolor no anginoso,140,179,falso,normal,160,no,0.0,subida,normal
+53,masculino,angina atípica,140,320,falso,normal,162,no,0.0,subida,normal
+52,masculino,asintomático,140,266,falso,normal,134,si,2.0,plano,enfermedad cardiovascular
+54,masculino,asintomático,140,216,falso,normal,105,no,1.5,plano,enfermedad cardiovascular
+59,masculino,angina atípica,140,287,falso,normal,150,no,0.0,subida,normal
+52,masculino,asintomático,130,225,falso,normal,120,si,2.0,plano,enfermedad cardiovascular
+51,masculino,angina atípica,130,224,falso,normal,150,no,0.0,subida,normal
+52,masculino,asintomático,140,404,falso,normal,124,si,2.0,plano,enfermedad cardiovascular
+54,femenino,angina atípica,160,312,falso,normal,130,no,0.0,subida,normal
+58,masculino,dolor no anginoso,160,211,verdadero,anormalidad de la onda ST-T,92,no,0.0,plano,enfermedad cardiovascular
+58,masculino,angina atípica,130,251,falso,normal,110,no,0.0,subida,normal
+50,femenino,asintomático,120,328,falso,normal,110,si,1.0,plano,normal
+50,masculino,angina atípica,170,209,falso,anormalidad de la onda ST-T,116,no,0.0,subida,normal
+62,femenino,angina típica,160,193,falso,normal,116,no,0.0,subida,normal
+53,masculino,asintomático,120,246,falso,normal,116,si,0.0,plano,enfermedad cardiovascular
+57,femenino,angina típica,130,308,falso,normal,98,no,1.0,plano,normal
+56,masculino,angina atípica,130,184,falso,normal,100,no,0.0,subida,normal
+50,masculino,asintomático,150,215,falso,normal,140,si,0.0,subida,normal
+54,masculino,asintomático,125,216,falso,normal,140,no,0.0,plano,enfermedad cardiovascular
+50,femenino,dolor no anginoso,140,288,falso,normal,140,si,0.0,plano,enfermedad cardiovascular
+56,masculino,dolor no anginoso,130,276,falso,normal,128,si,1.0,subida,normal
+56,femenino,dolor no anginoso,130,219,falso,anormalidad de la onda ST-T,164,no,0.0,subida,normal
+54,masculino,dolor no anginoso,120,217,falso,normal,137,no,0.0,subida,normal
+55,masculino,angina atípica,140,196,falso,normal,150,no,0.0,subida,normal
+51,femenino,asintomático,160,303,falso,normal,150,si,1.0,plano,enfermedad cardiovascular
+55,masculino,angina atípica,120,256,verdadero,normal,137,no,0.0,subida,normal
+50,masculino,asintomático,145,264,falso,normal,150,no,0.0,plano,enfermedad cardiovascular
+53,masculino,dolor no anginoso,120,195,falso,normal,140,no,0.0,subida,normal
+54,femenino,angina atípica,140,309,falso,anormalidad de la onda ST-T,140,no,0.0,subida,normal
+55,masculino,angina típica,140,295,falso,normal,136,no,0.0,plano,enfermedad cardiovascular
+55,masculino,angina atípica,145,326,falso,normal,155,no,0.0,subida,normal
+55,masculino,angina atípica,160,292,verdadero,normal,143,si,2.0,plano,enfermedad cardiovascular
+54,masculino,angina típica,120,171,falso,normal,137,no,2.0,subida,normal
+54,masculino,dolor no anginoso,120,237,falso,normal,150,si,1.5,plano,enfermedad cardiovascular
+61,masculino,asintomático,125,292,falso,anormalidad de la onda ST-T,115,si,0.0,subida,normal
+62,masculino,angina atípica,140,271,falso,normal,152,no,1.0,subida,normal
+55,masculino,asintomático,145,248,falso,normal,96,si,2.0,plano,enfermedad cardiovascular
+53,femenino,dolor no anginoso,120,274,falso,normal,130,no,0.0,subida,normal
+55,femenino,angina atípica,130,394,falso,hipertrofia del ventriculo izq,150,no,0.0,subida,normal
+51,femenino,dolor no anginoso,150,200,falso,normal,120,no,0.5,subida,normal
+55,femenino,angina atípica,122,320,falso,normal,155,no,0.0,subida,normal
+54,femenino,angina atípica,120,221,falso,normal,138,no,1.0,subida,normal
+59,masculino,asintomático,130,126,falso,normal,125,no,0.0,plano,enfermedad cardiovascular
+54,masculino,angina atípica,160,305,falso,normal,175,no,0.0,subida,normal
+52,masculino,asintomático,130,298,falso,normal,110,si,1.0,plano,enfermedad cardiovascular
+54,masculino,asintomático,130,242,falso,normal,91,si,1.0,plano,enfermedad cardiovascular
+55,masculino,asintomático,140,201,falso,normal,130,si,3.0,plano,enfermedad cardiovascular
+55,masculino,dolor no anginoso,120,220,falso,hipertrofia del ventriculo izq,134,no,0.0,subida,normal
+51,masculino,dolor no anginoso,135,160,falso,normal,150,no,2.0,plano,enfermedad cardiovascular
+52,masculino,asintomático,170,223,falso,normal,126,si,1.5,plano,enfermedad cardiovascular
+54,femenino,angina atípica,130,253,falso,anormalidad de la onda ST-T,155,no,0.0,subida,normal
+60,masculino,dolor no anginoso,120,246,falso,hipertrofia del ventriculo izq,135,no,0.0,subida,normal
+51,femenino,dolor no anginoso,130,220,falso,normal,160,si,2.0,subida,normal
+55,femenino,angina atípica,110,344,falso,anormalidad de la onda ST-T,160,no,0.0,subida,normal
+51,femenino,dolor no anginoso,110,190,falso,normal,120,no,0.0,subida,normal
+59,masculino,asintomático,140,169,falso,normal,140,no,0.0,subida,normal
+53,masculino,angina atípica,120,181,falso,normal,132,no,0.0,subida,normal
+53,masculino,asintomático,130,182,falso,normal,148,no,0.0,subida,normal
+63,masculino,asintomático,140,260,falso,anormalidad de la onda ST-T,112,si,3.0,plano,enfermedad cardiovascular
+60,masculino,asintomático,132,218,falso,anormalidad de la onda ST-T,140,si,1.5,bajada,enfermedad cardiovascular
+55,masculino,asintomático,142,228,falso,anormalidad de la onda ST-T,149,si,2.5,subida,enfermedad cardiovascular
+66,masculino,dolor no anginoso,110,213,verdadero,hipertrofia del ventriculo izq,99,si,1.3,plano,normal
+65,masculino,asintomático,150,236,verdadero,anormalidad de la onda ST-T,105,si,0.0,plano,enfermedad cardiovascular
+60,masculino,angina atípica,160,267,verdadero,anormalidad de la onda ST-T,157,no,0.5,plano,enfermedad cardiovascular
+56,masculino,angina atípica,126,166,falso,anormalidad de la onda ST-T,140,no,0.0,subida,normal
+62,masculino,asintomático,120,220,falso,anormalidad de la onda ST-T,86,no,0.0,subida,normal
+63,masculino,asintomático,170,177,falso,normal,84,si,2.5,bajada,enfermedad cardiovascular
+60,masculino,asintomático,130,186,verdadero,anormalidad de la onda ST-T,140,si,0.5,plano,enfermedad cardiovascular
+55,masculino,dolor no anginoso,136,228,falso,anormalidad de la onda ST-T,124,si,1.6,plano,enfermedad cardiovascular
+77,masculino,asintomático,124,171,falso,anormalidad de la onda ST-T,110,si,2.0,subida,enfermedad cardiovascular
+63,masculino,asintomático,160,230,verdadero,normal,105,si,1.0,plano,enfermedad cardiovascular
+60,masculino,asintomático,140,281,falso,anormalidad de la onda ST-T,118,si,1.5,plano,enfermedad cardiovascular
+58,masculino,asintomático,136,203,verdadero,normal,123,si,1.2,plano,enfermedad cardiovascular
+57,masculino,asintomático,139,277,verdadero,anormalidad de la onda ST-T,118,si,1.9,plano,enfermedad cardiovascular
+59,masculino,asintomático,122,233,falso,normal,117,si,1.3,bajada,enfermedad cardiovascular
+62,masculino,asintomático,152,153,falso,anormalidad de la onda ST-T,97,si,1.6,subida,enfermedad cardiovascular
+56,masculino,angina atípica,124,224,verdadero,normal,161,no,2.0,plano,normal
+60,masculino,dolor no anginoso,141,316,verdadero,anormalidad de la onda ST-T,122,si,1.7,plano,enfermedad cardiovascular
+51,masculino,asintomático,132,218,verdadero,hipertrofia del ventriculo izq,139,no,0.1,subida,normal
+57,masculino,asintomático,130,311,verdadero,anormalidad de la onda ST-T,148,si,2.0,plano,enfermedad cardiovascular
+67,masculino,angina típica,142,270,verdadero,normal,125,no,2.5,subida,enfermedad cardiovascular
+63,masculino,angina atípica,139,217,verdadero,anormalidad de la onda ST-T,128,si,1.2,plano,enfermedad cardiovascular
+55,masculino,angina atípica,110,214,verdadero,anormalidad de la onda ST-T,180,no,0.4,subida,normal
+57,masculino,asintomático,140,214,falso,anormalidad de la onda ST-T,144,si,2.0,plano,enfermedad cardiovascular
+65,masculino,angina típica,140,252,falso,normal,135,no,0.3,subida,normal
+54,masculino,asintomático,136,220,falso,normal,140,si,3.0,plano,enfermedad cardiovascular
+72,masculino,dolor no anginoso,120,214,falso,normal,102,si,1.0,plano,enfermedad cardiovascular
+75,masculino,asintomático,170,203,verdadero,anormalidad de la onda ST-T,108,no,0.0,plano,enfermedad cardiovascular
+51,masculino,dolor no anginoso,137,339,falso,normal,127,si,1.7,plano,enfermedad cardiovascular
+60,masculino,asintomático,142,216,falso,normal,110,si,2.5,plano,enfermedad cardiovascular
+64,femenino,asintomático,142,276,falso,normal,140,si,1.0,plano,enfermedad cardiovascular
+58,masculino,asintomático,132,458,verdadero,normal,69,no,1.0,bajada,normal
+61,masculino,asintomático,146,241,falso,normal,148,si,3.0,bajada,enfermedad cardiovascular
+67,masculino,asintomático,160,384,verdadero,anormalidad de la onda ST-T,130,si,0.0,plano,enfermedad cardiovascular
+62,masculino,asintomático,135,297,falso,normal,130,si,1.0,plano,enfermedad cardiovascular
+65,masculino,asintomático,136,248,falso,normal,140,si,4.0,bajada,enfermedad cardiovascular
+63,masculino,asintomático,130,308,falso,normal,138,si,2.0,plano,enfermedad cardiovascular
+69,masculino,asintomático,140,208,falso,anormalidad de la onda ST-T,140,si,2.0,plano,enfermedad cardiovascular
+51,masculino,asintomático,132,227,verdadero,anormalidad de la onda ST-T,138,no,0.2,subida,normal
+62,masculino,asintomático,158,210,verdadero,normal,112,si,3.0,bajada,enfermedad cardiovascular
+55,masculino,dolor no anginoso,136,245,verdadero,anormalidad de la onda ST-T,131,si,1.2,plano,enfermedad cardiovascular
+75,masculino,asintomático,136,225,falso,normal,112,si,3.0,plano,enfermedad cardiovascular
+58,masculino,asintomático,110,198,falso,normal,110,no,0.0,plano,enfermedad cardiovascular
+60,masculino,asintomático,136,195,falso,normal,126,no,0.3,subida,normal
+63,masculino,asintomático,160,267,verdadero,anormalidad de la onda ST-T,88,si,2.0,plano,enfermedad cardiovascular
+62,masculino,angina típica,112,258,falso,anormalidad de la onda ST-T,150,si,1.3,plano,enfermedad cardiovascular
+68,masculino,dolor no anginoso,150,195,verdadero,normal,132,no,0.0,0,enfermedad cardiovascular
+65,masculino,asintomático,150,235,falso,normal,120,si,1.5,plano,enfermedad cardiovascular
+64,masculino,asintomático,130,223,falso,anormalidad de la onda ST-T,128,no,0.5,plano,normal
+61,masculino,asintomático,120,282,falso,anormalidad de la onda ST-T,135,si,4.0,bajada,enfermedad cardiovascular
+50,masculino,asintomático,144,349,falso,hipertrofia del ventriculo izq,120,si,1.0,subida,enfermedad cardiovascular
+59,masculino,asintomático,124,160,falso,normal,117,si,1.0,plano,enfermedad cardiovascular
+55,masculino,asintomático,150,160,falso,anormalidad de la onda ST-T,150,no,0.0,subida,normal
+65,masculino,asintomático,144,312,falso,hipertrofia del ventriculo izq,113,si,1.7,plano,enfermedad cardiovascular
+61,masculino,angina atípica,139,283,falso,normal,135,no,0.3,subida,normal
+72,masculino,asintomático,143,211,falso,normal,109,si,1.4,plano,enfermedad cardiovascular
+50,masculino,asintomático,133,218,falso,normal,128,si,1.1,plano,enfermedad cardiovascular
+64,masculino,asintomático,143,306,verdadero,anormalidad de la onda ST-T,115,si,1.8,plano,enfermedad cardiovascular
+55,masculino,asintomático,116,186,verdadero,anormalidad de la onda ST-T,102,no,0.0,plano,enfermedad cardiovascular
+63,masculino,asintomático,110,252,falso,anormalidad de la onda ST-T,140,si,2.0,plano,enfermedad cardiovascular
+59,masculino,asintomático,125,222,falso,normal,135,si,2.5,bajada,enfermedad cardiovascular
+74,masculino,asintomático,150,258,verdadero,anormalidad de la onda ST-T,130,si,4.0,bajada,enfermedad cardiovascular
+54,masculino,asintomático,130,202,verdadero,normal,112,si,2.0,plano,enfermedad cardiovascular
+57,masculino,asintomático,110,197,falso,hipertrofia del ventriculo izq,100,no,0.0,subida,normal
+62,masculino,dolor no anginoso,138,204,falso,anormalidad de la onda ST-T,122,si,1.2,plano,enfermedad cardiovascular
+54,femenino,asintomático,138,274,falso,normal,105,si,1.5,plano,enfermedad cardiovascular
+70,masculino,asintomático,170,192,falso,anormalidad de la onda ST-T,129,si,3.0,bajada,enfermedad cardiovascular
+61,femenino,angina atípica,140,298,verdadero,normal,120,si,0.0,subida,normal
+61,masculino,angina típica,142,200,verdadero,anormalidad de la onda ST-T,100,no,1.5,bajada,enfermedad cardiovascular
+66,masculino,asintomático,112,261,falso,normal,140,no,1.5,subida,enfermedad cardiovascular
+68,masculino,angina típica,139,181,verdadero,anormalidad de la onda ST-T,135,no,0.2,subida,normal
+55,masculino,asintomático,172,260,falso,normal,73,no,2.0,plano,enfermedad cardiovascular
+62,masculino,dolor no anginoso,120,220,falso,hipertrofia del ventriculo izq,86,no,0.0,subida,normal
+71,masculino,dolor no anginoso,144,221,falso,normal,108,si,1.8,plano,enfermedad cardiovascular
+74,masculino,angina típica,145,216,verdadero,normal,116,si,1.8,plano,enfermedad cardiovascular
+53,masculino,dolor no anginoso,155,175,verdadero,anormalidad de la onda ST-T,160,no,0.3,subida,normal
+58,masculino,dolor no anginoso,150,219,falso,anormalidad de la onda ST-T,118,si,0.0,plano,enfermedad cardiovascular
+75,masculino,asintomático,160,310,verdadero,normal,112,si,2.0,bajada,normal
+56,masculino,dolor no anginoso,137,208,verdadero,anormalidad de la onda ST-T,122,si,1.8,plano,enfermedad cardiovascular
+58,masculino,dolor no anginoso,137,232,falso,anormalidad de la onda ST-T,124,si,1.4,plano,enfermedad cardiovascular
+64,masculino,asintomático,134,273,falso,normal,102,si,4.0,bajada,enfermedad cardiovascular
+54,masculino,dolor no anginoso,133,203,falso,anormalidad de la onda ST-T,137,no,0.2,subida,normal
+54,masculino,angina atípica,132,182,falso,anormalidad de la onda ST-T,141,no,0.1,subida,normal
+59,masculino,asintomático,140,274,falso,normal,154,si,2.0,plano,normal
+55,masculino,asintomático,135,204,verdadero,anormalidad de la onda ST-T,126,si,1.1,plano,enfermedad cardiovascular
+57,masculino,asintomático,144,270,verdadero,anormalidad de la onda ST-T,160,si,2.0,plano,enfermedad cardiovascular
+61,masculino,asintomático,141,292,falso,anormalidad de la onda ST-T,115,si,1.7,plano,enfermedad cardiovascular
+71,masculino,asintomático,130,221,falso,anormalidad de la onda ST-T,115,si,0.0,plano,enfermedad cardiovascular
+55,masculino,asintomático,158,217,falso,normal,110,si,2.5,plano,enfermedad cardiovascular
+56,masculino,asintomático,128,223,falso,anormalidad de la onda ST-T,119,si,2.0,bajada,enfermedad cardiovascular
+64,masculino,asintomático,150,193,falso,anormalidad de la onda ST-T,135,si,0.5,plano,enfermedad cardiovascular
+72,masculino,asintomático,160,123,verdadero,hipertrofia del ventriculo izq,130,no,1.5,plano,enfermedad cardiovascular
+69,masculino,asintomático,142,210,verdadero,anormalidad de la onda ST-T,112,si,1.5,plano,enfermedad cardiovascular
+56,masculino,asintomático,137,282,verdadero,normal,126,si,1.2,plano,enfermedad cardiovascular
+62,masculino,asintomático,139,170,falso,anormalidad de la onda ST-T,120,si,3.0,plano,enfermedad cardiovascular
+67,masculino,asintomático,146,369,falso,normal,110,si,1.9,plano,enfermedad cardiovascular
+57,masculino,asintomático,156,173,falso,hipertrofia del ventriculo izq,119,si,3.0,bajada,enfermedad cardiovascular
+69,masculino,asintomático,145,289,verdadero,anormalidad de la onda ST-T,110,si,1.8,plano,enfermedad cardiovascular
+51,masculino,asintomático,131,152,verdadero,hipertrofia del ventriculo izq,130,si,1.0,plano,enfermedad cardiovascular
+69,masculino,asintomático,122,216,verdadero,hipertrofia del ventriculo izq,84,si,0.0,plano,enfermedad cardiovascular
+69,masculino,dolor no anginoso,142,271,falso,hipertrofia del ventriculo izq,126,no,0.3,subida,normal
+64,masculino,asintomático,141,244,verdadero,anormalidad de la onda ST-T,116,si,1.5,plano,enfermedad cardiovascular
+53,masculino,asintomático,124,243,falso,normal,122,si,2.0,plano,enfermedad cardiovascular
+67,masculino,asintomático,140,219,falso,anormalidad de la onda ST-T,122,si,2.0,plano,enfermedad cardiovascular
+74,masculino,dolor no anginoso,140,237,verdadero,normal,94,no,0.0,plano,enfermedad cardiovascular
+63,masculino,angina atípica,136,165,falso,anormalidad de la onda ST-T,133,no,0.2,subida,normal
+58,masculino,asintomático,100,213,falso,anormalidad de la onda ST-T,110,no,0.0,subida,normal
+64,masculino,asintomático,130,258,verdadero,hipertrofia del ventriculo izq,130,no,0.0,plano,enfermedad cardiovascular
+58,masculino,asintomático,160,256,verdadero,hipertrofia del ventriculo izq,113,si,1.0,subida,enfermedad cardiovascular
+60,masculino,asintomático,130,186,verdadero,hipertrofia del ventriculo izq,140,si,0.5,plano,enfermedad cardiovascular
+57,masculino,asintomático,122,264,falso,hipertrofia del ventriculo izq,100,no,0.0,plano,enfermedad cardiovascular
+55,masculino,dolor no anginoso,133,185,falso,anormalidad de la onda ST-T,136,no,0.2,subida,normal
+55,masculino,asintomático,120,226,falso,hipertrofia del ventriculo izq,127,si,1.7,bajada,enfermedad cardiovascular
+56,masculino,asintomático,130,203,verdadero,normal,98,no,1.5,plano,enfermedad cardiovascular
+57,masculino,asintomático,130,207,falso,anormalidad de la onda ST-T,96,si,1.0,plano,normal
+61,masculino,dolor no anginoso,140,284,falso,normal,123,si,1.3,plano,enfermedad cardiovascular
+61,masculino,dolor no anginoso,120,337,falso,normal,98,si,0.0,plano,enfermedad cardiovascular
+74,masculino,asintomático,155,310,falso,normal,112,si,1.5,bajada,enfermedad cardiovascular
+68,masculino,dolor no anginoso,134,254,verdadero,normal,151,si,0.0,subida,normal
+51,femenino,asintomático,114,258,verdadero,hipertrofia del ventriculo izq,96,no,1.0,subida,normal
+62,masculino,asintomático,160,254,verdadero,anormalidad de la onda ST-T,108,si,3.0,plano,enfermedad cardiovascular
+53,masculino,asintomático,144,300,verdadero,anormalidad de la onda ST-T,128,si,1.5,plano,enfermedad cardiovascular
+62,masculino,asintomático,158,170,falso,anormalidad de la onda ST-T,138,si,0.0,plano,enfermedad cardiovascular
+54,femenino,asintomático,127,333,verdadero,anormalidad de la onda ST-T,154,no,0.0,plano,enfermedad cardiovascular
+62,masculino,angina típica,135,139,falso,anormalidad de la onda ST-T,137,no,0.2,subida,normal
+55,masculino,asintomático,122,223,verdadero,anormalidad de la onda ST-T,100,no,0.0,plano,enfermedad cardiovascular
+58,masculino,asintomático,140,385,verdadero,hipertrofia del ventriculo izq,135,no,0.3,subida,normal
+62,masculino,angina atípica,120,254,falso,hipertrofia del ventriculo izq,93,si,0.0,plano,enfermedad cardiovascular
+70,masculino,asintomático,130,322,falso,hipertrofia del ventriculo izq,109,no,2.4,plano,enfermedad cardiovascular
+67,femenino,dolor no anginoso,115,564,falso,hipertrofia del ventriculo izq,160,no,1.6,plano,normal
+57,masculino,angina atípica,124,261,falso,normal,141,no,0.3,subida,enfermedad cardiovascular
+64,masculino,asintomático,128,263,falso,normal,105,si,0.2,plano,normal
+74,femenino,angina atípica,120,269,falso,hipertrofia del ventriculo izq,121,si,0.2,subida,normal
+65,masculino,asintomático,120,177,falso,normal,140,no,0.4,subida,normal
+56,masculino,dolor no anginoso,130,256,verdadero,hipertrofia del ventriculo izq,142,si,0.6,plano,enfermedad cardiovascular
+59,masculino,asintomático,110,239,falso,hipertrofia del ventriculo izq,142,si,1.2,plano,enfermedad cardiovascular
+60,masculino,asintomático,140,293,falso,hipertrofia del ventriculo izq,170,no,1.2,plano,enfermedad cardiovascular
+63,femenino,asintomático,150,407,falso,hipertrofia del ventriculo izq,154,no,4.0,plano,enfermedad cardiovascular
+59,masculino,asintomático,135,234,falso,normal,161,no,0.5,plano,normal
+53,masculino,asintomático,142,226,falso,hipertrofia del ventriculo izq,111,si,0.0,subida,normal
+61,masculino,angina típica,134,234,falso,normal,145,no,2.6,plano,enfermedad cardiovascular
+57,femenino,asintomático,128,303,falso,hipertrofia del ventriculo izq,159,no,0.0,subida,normal
+71,femenino,asintomático,112,149,falso,normal,125,no,1.6,plano,normal
+53,masculino,asintomático,140,203,verdadero,hipertrofia del ventriculo izq,155,si,3.1,bajada,enfermedad cardiovascular
+64,masculino,angina típica,110,211,falso,hipertrofia del ventriculo izq,144,si,1.8,plano,normal
+67,masculino,asintomático,120,229,falso,hipertrofia del ventriculo izq,129,si,2.6,plano,enfermedad cardiovascular
+54,femenino,angina atípica,132,288,verdadero,hipertrofia del ventriculo izq,159,si,0.0,subida,normal
+51,femenino,dolor no anginoso,120,295,falso,hipertrofia del ventriculo izq,157,no,0.6,subida,normal
+58,masculino,dolor no anginoso,112,230,falso,hipertrofia del ventriculo izq,165,no,2.5,plano,enfermedad cardiovascular
+71,femenino,dolor no anginoso,110,265,verdadero,hipertrofia del ventriculo izq,130,no,0.0,subida,normal
+57,masculino,dolor no anginoso,128,229,falso,hipertrofia del ventriculo izq,150,no,0.4,plano,enfermedad cardiovascular
+66,masculino,asintomático,160,228,falso,hipertrofia del ventriculo izq,138,no,2.3,subida,normal
+59,masculino,asintomático,170,326,falso,hipertrofia del ventriculo izq,140,si,3.4,bajada,enfermedad cardiovascular
+50,masculino,asintomático,144,200,falso,hipertrofia del ventriculo izq,126,si,0.9,plano,enfermedad cardiovascular
+61,masculino,asintomático,140,207,falso,hipertrofia del ventriculo izq,138,si,1.9,subida,enfermedad cardiovascular
+59,masculino,angina típica,160,273,falso,hipertrofia del ventriculo izq,125,no,0.0,subida,enfermedad cardiovascular
+62,femenino,asintomático,124,209,falso,normal,163,no,0.0,subida,normal
+59,masculino,dolor no anginoso,126,218,verdadero,normal,134,no,2.2,plano,enfermedad cardiovascular
+58,masculino,dolor no anginoso,140,211,verdadero,hipertrofia del ventriculo izq,165,no,0.0,subida,normal
+66,masculino,angina atípica,160,246,falso,normal,120,si,0.0,plano,enfermedad cardiovascular
+65,femenino,asintomático,150,225,falso,hipertrofia del ventriculo izq,114,no,1.0,plano,enfermedad cardiovascular
+52,masculino,angina atípica,128,205,verdadero,normal,184,no,0.0,subida,normal
+65,femenino,dolor no anginoso,140,417,verdadero,hipertrofia del ventriculo izq,157,no,0.8,subida,normal
+63,femenino,angina atípica,140,195,falso,normal,179,no,0.0,subida,normal
+61,masculino,asintomático,138,166,falso,hipertrofia del ventriculo izq,125,si,3.6,plano,enfermedad cardiovascular
+60,femenino,dolor no anginoso,120,178,verdadero,normal,96,no,0.0,subida,normal
+62,masculino,angina atípica,120,281,falso,hipertrofia del ventriculo izq,103,no,1.4,plano,enfermedad cardiovascular
+57,masculino,dolor no anginoso,150,126,verdadero,normal,173,no,0.2,subida,normal
+51,femenino,asintomático,130,305,falso,normal,142,si,1.2,plano,enfermedad cardiovascular
+60,femenino,angina típica,150,240,falso,normal,171,no,0.9,subida,normal
+63,masculino,angina típica,145,233,verdadero,hipertrofia del ventriculo izq,150,no,2.3,bajada,normal
+57,masculino,asintomático,150,276,falso,hipertrofia del ventriculo izq,112,si,0.6,plano,enfermedad cardiovascular
+51,masculino,asintomático,140,261,falso,hipertrofia del ventriculo izq,186,si,0.0,subida,normal
+58,femenino,angina atípica,136,319,verdadero,hipertrofia del ventriculo izq,152,no,0.0,subida,enfermedad cardiovascular
+61,masculino,asintomático,120,260,falso,normal,140,si,3.6,plano,enfermedad cardiovascular
+57,femenino,asintomático,120,354,falso,normal,163,si,0.6,subida,normal
+70,masculino,angina atípica,156,245,falso,hipertrofia del ventriculo izq,143,no,0.0,subida,normal
+76,femenino,dolor no anginoso,140,197,falso,anormalidad de la onda ST-T,116,no,1.1,plano,normal
+67,femenino,asintomático,106,223,falso,normal,142,no,0.3,subida,normal
+56,masculino,angina atípica,120,236,falso,normal,178,no,0.8,subida,normal
+58,masculino,asintomático,146,218,falso,normal,105,no,2.0,plano,enfermedad cardiovascular
+58,masculino,asintomático,150,270,falso,hipertrofia del ventriculo izq,111,si,0.8,subida,enfermedad cardiovascular
+57,masculino,asintomático,110,201,falso,normal,126,si,1.5,plano,normal
+62,masculino,angina atípica,128,208,verdadero,hipertrofia del ventriculo izq,140,no,0.0,subida,normal
+50,masculino,asintomático,150,243,falso,hipertrofia del ventriculo izq,128,no,2.6,plano,enfermedad cardiovascular
+59,masculino,angina atípica,140,221,falso,normal,164,si,0.0,subida,normal
+61,femenino,asintomático,130,330,falso,hipertrofia del ventriculo izq,169,no,0.0,subida,enfermedad cardiovascular
+54,masculino,asintomático,124,266,falso,hipertrofia del ventriculo izq,109,si,2.2,plano,enfermedad cardiovascular
+54,masculino,asintomático,110,206,falso,hipertrofia del ventriculo izq,108,si,0.0,plano,enfermedad cardiovascular
+52,masculino,asintomático,125,212,falso,normal,168,no,1.0,subida,enfermedad cardiovascular
+66,masculino,asintomático,120,302,falso,hipertrofia del ventriculo izq,151,no,0.4,plano,normal
+58,masculino,asintomático,100,234,falso,normal,156,no,0.1,subida,enfermedad cardiovascular
+64,femenino,dolor no anginoso,140,313,falso,normal,133,no,0.2,subida,normal
+50,femenino,angina atípica,120,244,falso,normal,162,no,1.1,subida,normal
+67,masculino,asintomático,120,237,falso,normal,71,no,1.0,plano,enfermedad cardiovascular
+57,masculino,asintomático,165,289,verdadero,hipertrofia del ventriculo izq,124,no,1.0,plano,enfermedad cardiovascular
+63,masculino,asintomático,130,254,falso,hipertrofia del ventriculo izq,147,no,1.4,plano,enfermedad cardiovascular
+51,masculino,dolor no anginoso,100,222,falso,normal,143,si,1.2,plano,normal
+60,femenino,asintomático,150,258,falso,hipertrofia del ventriculo izq,157,no,2.6,plano,enfermedad cardiovascular
+59,masculino,asintomático,140,177,falso,normal,162,si,0.0,subida,enfermedad cardiovascular
+60,femenino,asintomático,158,305,falso,hipertrofia del ventriculo izq,161,no,0.0,subida,enfermedad cardiovascular
+54,femenino,dolor no anginoso,135,304,verdadero,normal,170,no,0.0,subida,normal
+66,femenino,angina típica,150,226,falso,normal,114,no,2.6,bajada,normal
+56,masculino,asintomático,130,283,verdadero,hipertrofia del ventriculo izq,103,si,1.6,bajada,enfermedad cardiovascular
+54,masculino,asintomático,122,286,falso,hipertrofia del ventriculo izq,116,si,3.2,plano,enfermedad cardiovascular
+57,masculino,asintomático,152,274,falso,normal,88,si,1.2,plano,enfermedad cardiovascular
+65,femenino,dolor no anginoso,160,360,falso,hipertrofia del ventriculo izq,151,no,0.8,subida,normal
+54,masculino,dolor no anginoso,125,273,falso,hipertrofia del ventriculo izq,152,no,0.5,bajada,normal
+54,femenino,dolor no anginoso,160,201,falso,normal,163,no,0.0,subida,normal
+62,masculino,asintomático,120,267,falso,normal,99,si,1.8,plano,enfermedad cardiovascular
+52,femenino,dolor no anginoso,136,196,falso,hipertrofia del ventriculo izq,169,no,0.1,plano,normal
+52,masculino,angina atípica,134,201,falso,normal,158,no,0.8,subida,normal
+60,masculino,asintomático,117,230,verdadero,normal,160,si,1.4,subida,enfermedad cardiovascular
+63,femenino,asintomático,108,269,falso,normal,169,si,1.8,plano,enfermedad cardiovascular
+66,masculino,asintomático,112,212,falso,hipertrofia del ventriculo izq,132,si,0.1,subida,enfermedad cardiovascular
+64,masculino,asintomático,120,246,falso,hipertrofia del ventriculo izq,96,si,2.2,bajada,enfermedad cardiovascular
+54,masculino,dolor no anginoso,150,232,falso,hipertrofia del ventriculo izq,165,no,1.6,subida,normal
+67,femenino,dolor no anginoso,152,277,falso,normal,172,no,0.0,subida,normal
+56,masculino,asintomático,125,249,verdadero,hipertrofia del ventriculo izq,144,si,1.2,plano,enfermedad cardiovascular
+57,masculino,asintomático,132,207,falso,normal,168,si,0.0,subida,normal
+64,masculino,asintomático,145,212,falso,hipertrofia del ventriculo izq,132,no,2.0,plano,enfermedad cardiovascular
+59,masculino,asintomático,138,271,falso,hipertrofia del ventriculo izq,182,no,0.0,subida,normal
+50,masculino,dolor no anginoso,140,233,falso,normal,163,no,0.6,plano,enfermedad cardiovascular
+51,masculino,angina típica,125,213,falso,hipertrofia del ventriculo izq,125,si,1.4,subida,normal
+53,masculino,asintomático,123,282,falso,normal,95,si,2.0,plano,enfermedad cardiovascular
+52,masculino,asintomático,112,230,falso,normal,160,no,0.0,subida,enfermedad cardiovascular
+58,masculino,dolor no anginoso,132,224,falso,hipertrofia del ventriculo izq,173,no,3.2,subida,enfermedad cardiovascular
+50,femenino,dolor no anginoso,120,219,falso,normal,158,no,1.6,plano,normal
+54,femenino,dolor no anginoso,108,267,falso,hipertrofia del ventriculo izq,167,no,0.0,subida,normal
+64,femenino,asintomático,130,303,falso,normal,122,no,2.0,plano,normal
+51,femenino,dolor no anginoso,130,256,falso,hipertrofia del ventriculo izq,149,no,0.5,subida,normal
+55,masculino,asintomático,140,217,falso,normal,111,si,5.6,bajada,enfermedad cardiovascular
+56,masculino,angina típica,120,193,falso,hipertrofia del ventriculo izq,162,no,1.9,plano,normal
+62,femenino,asintomático,150,244,falso,normal,154,si,1.4,plano,enfermedad cardiovascular
+55,masculino,angina atípica,130,262,falso,normal,155,no,0.0,subida,normal
+58,masculino,asintomático,128,259,falso,hipertrofia del ventriculo izq,130,si,3.0,plano,enfermedad cardiovascular
+50,femenino,asintomático,110,254,falso,hipertrofia del ventriculo izq,159,no,0.0,subida,normal
+53,masculino,dolor no anginoso,130,197,verdadero,hipertrofia del ventriculo izq,152,no,1.2,bajada,normal
+65,masculino,angina típica,138,282,verdadero,hipertrofia del ventriculo izq,174,no,1.4,plano,enfermedad cardiovascular
+69,masculino,angina típica,160,234,verdadero,hipertrofia del ventriculo izq,131,no,0.1,plano,normal
+69,masculino,dolor no anginoso,140,254,falso,hipertrofia del ventriculo izq,146,no,2.0,plano,enfermedad cardiovascular
+67,masculino,asintomático,100,299,falso,hipertrofia del ventriculo izq,125,si,0.9,plano,enfermedad cardiovascular
+68,femenino,dolor no anginoso,120,211,falso,hipertrofia del ventriculo izq,115,no,1.5,plano,normal
+62,femenino,asintomático,138,294,verdadero,normal,106,no,1.9,plano,enfermedad cardiovascular
+51,masculino,asintomático,140,298,falso,normal,122,si,4.2,plano,enfermedad cardiovascular
+67,masculino,asintomático,125,254,verdadero,normal,163,no,0.2,plano,enfermedad cardiovascular
+50,masculino,dolor no anginoso,129,196,falso,normal,163,no,0.0,subida,normal
+56,femenino,asintomático,134,409,falso,hipertrofia del ventriculo izq,150,si,1.9,plano,enfermedad cardiovascular
+53,masculino,dolor no anginoso,130,246,verdadero,hipertrofia del ventriculo izq,173,no,0.0,subida,normal
+56,masculino,asintomático,132,184,falso,hipertrofia del ventriculo izq,105,si,2.1,plano,enfermedad cardiovascular
+52,masculino,asintomático,108,233,verdadero,normal,147,no,0.1,subida,normal
+62,femenino,asintomático,140,394,falso,hipertrofia del ventriculo izq,157,no,1.2,plano,normal
+70,masculino,dolor no anginoso,160,269,falso,normal,112,si,2.9,plano,enfermedad cardiovascular
+54,masculino,asintomático,140,239,falso,normal,160,no,1.2,subida,normal
+70,masculino,asintomático,145,174,falso,normal,125,si,2.6,bajada,enfermedad cardiovascular
+54,masculino,angina atípica,108,309,falso,normal,156,no,0.0,subida,normal
+55,femenino,angina atípica,135,250,falso,hipertrofia del ventriculo izq,161,no,1.4,plano,normal
+58,femenino,asintomático,100,248,falso,hipertrofia del ventriculo izq,122,no,1.0,plano,normal
+54,femenino,dolor no anginoso,110,214,falso,normal,158,no,1.6,plano,normal
+69,femenino,angina típica,140,239,falso,normal,151,no,1.8,subida,normal
+77,masculino,asintomático,125,304,falso,hipertrofia del ventriculo izq,162,si,0.0,subida,enfermedad cardiovascular
+68,masculino,dolor no anginoso,118,277,falso,normal,151,no,1.0,subida,normal
+58,masculino,asintomático,125,300,falso,hipertrofia del ventriculo izq,171,no,0.0,subida,enfermedad cardiovascular
+60,masculino,asintomático,125,258,falso,hipertrofia del ventriculo izq,141,si,2.8,plano,enfermedad cardiovascular
+51,masculino,asintomático,140,299,falso,normal,173,si,1.6,subida,enfermedad cardiovascular
+55,masculino,asintomático,160,289,falso,hipertrofia del ventriculo izq,145,si,0.8,plano,enfermedad cardiovascular
+52,masculino,angina típica,152,298,verdadero,normal,178,no,1.2,plano,normal
+60,femenino,dolor no anginoso,102,318,falso,normal,160,no,0.0,subida,normal
+58,masculino,dolor no anginoso,105,240,falso,hipertrofia del ventriculo izq,154,si,0.6,plano,normal
+64,masculino,dolor no anginoso,125,309,falso,normal,131,si,1.8,plano,enfermedad cardiovascular
+59,masculino,angina típica,170,288,falso,hipertrofia del ventriculo izq,159,no,0.2,plano,enfermedad cardiovascular
+51,masculino,dolor no anginoso,125,245,verdadero,hipertrofia del ventriculo izq,166,no,2.4,plano,normal
+58,masculino,asintomático,128,216,falso,hipertrofia del ventriculo izq,131,si,2.2,plano,enfermedad cardiovascular
+63,femenino,dolor no anginoso,135,252,falso,hipertrofia del ventriculo izq,172,no,0.0,subida,normal
+54,masculino,dolor no anginoso,120,258,falso,hipertrofia del ventriculo izq,147,no,0.4,plano,normal
+54,masculino,asintomático,110,239,falso,normal,126,si,2.8,plano,enfermedad cardiovascular
+65,masculino,asintomático,135,254,falso,hipertrofia del ventriculo izq,127,no,2.8,plano,enfermedad cardiovascular
+57,masculino,dolor no anginoso,150,168,falso,normal,174,no,1.6,subida,normal
+63,masculino,asintomático,130,330,verdadero,hipertrofia del ventriculo izq,132,si,1.8,subida,enfermedad cardiovascular
+62,femenino,dolor no anginoso,130,263,falso,normal,97,no,1.2,plano,enfermedad cardiovascular
+58,femenino,angina típica,150,283,verdadero,hipertrofia del ventriculo izq,162,no,1.0,subida,normal
+52,masculino,angina típica,118,186,falso,hipertrofia del ventriculo izq,190,no,0.0,plano,normal
+61,femenino,asintomático,145,307,falso,hipertrofia del ventriculo izq,146,si,1.0,plano,enfermedad cardiovascular
+52,masculino,asintomático,128,255,falso,normal,161,si,0.0,subida,enfermedad cardiovascular
+62,masculino,dolor no anginoso,130,231,falso,normal,146,no,1.8,plano,normal
+62,femenino,asintomático,160,164,falso,hipertrofia del ventriculo izq,145,no,6.2,bajada,enfermedad cardiovascular
+53,femenino,asintomático,138,234,falso,hipertrofia del ventriculo izq,160,no,0.0,subida,normal
+52,masculino,angina atípica,120,325,falso,normal,172,no,0.2,subida,normal
+53,femenino,asintomático,130,264,falso,hipertrofia del ventriculo izq,143,no,0.4,plano,normal
+62,femenino,asintomático,140,268,falso,hipertrofia del ventriculo izq,160,no,3.6,bajada,enfermedad cardiovascular
+51,femenino,dolor no anginoso,140,308,falso,hipertrofia del ventriculo izq,142,no,1.5,subida,normal
+60,masculino,asintomático,130,253,falso,normal,144,si,1.4,subida,enfermedad cardiovascular
+65,masculino,asintomático,110,248,falso,hipertrofia del ventriculo izq,158,no,0.6,subida,enfermedad cardiovascular
+65,femenino,dolor no anginoso,155,269,falso,normal,148,no,0.8,subida,normal
+60,masculino,dolor no anginoso,140,185,falso,hipertrofia del ventriculo izq,155,no,3.0,plano,enfermedad cardiovascular
+60,masculino,asintomático,145,282,falso,hipertrofia del ventriculo izq,142,si,2.8,plano,enfermedad cardiovascular
+54,masculino,asintomático,120,188,falso,normal,113,no,1.4,plano,enfermedad cardiovascular
+51,masculino,dolor no anginoso,110,175,falso,normal,123,no,0.6,subida,normal
+59,masculino,dolor no anginoso,150,212,verdadero,normal,157,no,1.6,subida,normal
+71,femenino,angina atípica,160,302,falso,normal,162,no,0.4,subida,normal
+61,masculino,dolor no anginoso,150,243,verdadero,normal,137,si,1.0,plano,normal
+55,masculino,asintomático,132,353,falso,normal,132,si,1.2,plano,enfermedad cardiovascular
+64,masculino,dolor no anginoso,140,335,falso,normal,158,no,0.0,subida,enfermedad cardiovascular
+58,femenino,dolor no anginoso,120,340,falso,normal,172,no,0.0,subida,normal
+60,masculino,asintomático,130,206,falso,hipertrofia del ventriculo izq,132,si,2.4,plano,enfermedad cardiovascular
+58,masculino,angina atípica,120,284,falso,hipertrofia del ventriculo izq,160,no,1.8,plano,enfermedad cardiovascular
+52,masculino,dolor no anginoso,172,199,verdadero,normal,162,no,0.5,subida,normal
+56,femenino,angina atípica,140,294,falso,hipertrofia del ventriculo izq,153,no,1.3,plano,normal
+57,masculino,asintomático,140,192,falso,normal,148,no,0.4,plano,normal
+67,masculino,asintomático,160,286,falso,hipertrofia del ventriculo izq,108,si,1.5,plano,enfermedad cardiovascular
+53,femenino,dolor no anginoso,128,216,falso,hipertrofia del ventriculo izq,115,no,0.0,subida,normal
+52,masculino,dolor no anginoso,138,223,falso,normal,169,no,0.0,subida,normal
+52,masculino,asintomático,128,204,verdadero,normal,156,si,1.0,plano,enfermedad cardiovascular
+59,masculino,angina típica,134,204,falso,normal,162,no,0.8,subida,enfermedad cardiovascular
+64,masculino,angina típica,170,227,falso,hipertrofia del ventriculo izq,155,no,0.6,plano,normal
+66,femenino,dolor no anginoso,146,278,falso,hipertrofia del ventriculo izq,152,no,0.0,plano,normal
+57,masculino,angina atípica,154,232,falso,hipertrofia del ventriculo izq,164,no,0.0,subida,enfermedad cardiovascular
+58,femenino,asintomático,130,197,falso,normal,131,no,0.6,plano,normal
+57,masculino,asintomático,110,335,falso,normal,143,si,3.0,plano,enfermedad cardiovascular
+55,femenino,asintomático,128,205,falso,anormalidad de la onda ST-T,130,si,2.0,plano,enfermedad cardiovascular
+61,masculino,asintomático,148,203,falso,normal,161,no,0.0,subida,enfermedad cardiovascular
+58,masculino,asintomático,114,318,falso,anormalidad de la onda ST-T,140,no,4.4,bajada,enfermedad cardiovascular
+58,femenino,asintomático,170,225,verdadero,hipertrofia del ventriculo izq,146,si,2.8,plano,enfermedad cardiovascular
+58,masculino,angina atípica,125,220,falso,normal,144,no,0.4,plano,normal
+56,masculino,angina atípica,130,221,falso,hipertrofia del ventriculo izq,163,no,0.0,subida,normal
+56,masculino,angina atípica,120,240,falso,normal,169,no,0.0,bajada,normal
+67,masculino,dolor no anginoso,152,212,falso,hipertrofia del ventriculo izq,150,no,0.8,plano,enfermedad cardiovascular
+55,femenino,angina atípica,132,342,falso,normal,166,no,1.2,subida,normal
+63,masculino,asintomático,140,187,falso,hipertrofia del ventriculo izq,144,si,4.0,subida,enfermedad cardiovascular
+63,femenino,asintomático,124,197,falso,normal,136,si,0.0,plano,enfermedad cardiovascular
+59,masculino,asintomático,164,176,verdadero,hipertrofia del ventriculo izq,90,no,1.0,plano,enfermedad cardiovascular
+57,femenino,asintomático,140,241,falso,normal,123,si,0.2,plano,enfermedad cardiovascular
+68,masculino,asintomático,144,193,verdadero,normal,141,no,3.4,plano,enfermedad cardiovascular
+57,masculino,asintomático,130,131,falso,normal,115,si,1.2,plano,enfermedad cardiovascular
+57,femenino,angina atípica,130,236,falso,hipertrofia del ventriculo izq,174,no,0.0,plano,enfermedad cardiovascular
