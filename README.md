@@ -46,6 +46,6 @@ Este estudio analiza los niveles de colesterol y presión arterial en personas m
 
 ---
 
-👥 Autores
-Yatmelis Freites: Especialista en análisis de datos y visualización.
-Lucía Álvarez, Yaditza Rodriguez: Equipo de apoyo en limpieza de datos, revisión de resultados, y redacción del informe.
+## 👥 Autores
+**Yatmelis Freites**: Especialista en análisis de datos y visualización.
+**Lucía Álvarez, Yaditza Rodriguez**: Equipo de apoyo en limpieza de datos, revisión de resultados, y redacción del informe.
