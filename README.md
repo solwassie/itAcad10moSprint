@@ -1,5 +1,6 @@
-:heart: Colesterol y Presión Arterial en Pacientes con Enfermedades Cardiovasculares a Partir de los 50 Años: Un Análisis Diferenciado por Sexo :heart:
-Este estudio analiza los niveles de colesterol y presión arterial en personas mayores de 50 años como factores de riesgo en pacientes de enfermedades cardiovasculares, diferenciando entre hombres y mujeres. Se utilizó un conjunto de datos de pacientes con enfermedades cardiovasculares, procesado con Python :snake:, donde se analizaron variables como la edad, el sexo, el colesterol y la presión arterial.
+###:heart: Colesterol y Presión Arterial en Pacientes con Enfermedades Cardiovasculares a Partir de los 50 Años: Un Análisis Diferenciado por Sexo 
+
+:heart: Este estudio analiza los niveles de colesterol y presión arterial en personas mayores de 50 años como factores de riesgo en pacientes de enfermedades cardiovasculares, diferenciando entre hombres y mujeres. Se utilizó un conjunto de datos de pacientes con enfermedades cardiovasculares, procesado con Python :snake:, donde se analizaron variables como la edad, el sexo, el colesterol y la presión arterial.
 
 :rocket: Estado del Proyecto:
 ✅ Finalizado
