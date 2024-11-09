@@ -1,27 +1,25 @@
-###:heart: Colesterol y Presión Arterial en Pacientes con Enfermedades Cardiovasculares a Partir de los 50 Años: Un Análisis Diferenciado por Sexo 
+❤️ Colesterol y Presión Arterial en Pacientes con Enfermedades Cardiovasculares Mayores de 50 Años: Un Análisis Diferenciado por Sexo
+Este estudio analiza los niveles de colesterol y presión arterial en personas mayores de 50 años como factores de riesgo en pacientes con enfermedades cardiovasculares, diferenciando entre hombres y mujeres. El análisis se llevó a cabo con Python 🐍, evaluando variables como edad, sexo, colesterol y presión arterial en un conjunto de datos de pacientes con antecedentes cardiovasculares.
 
-:heart: Este estudio analiza los niveles de colesterol y presión arterial en personas mayores de 50 años como factores de riesgo en pacientes de enfermedades cardiovasculares, diferenciando entre hombres y mujeres. Se utilizó un conjunto de datos de pacientes con enfermedades cardiovasculares, procesado con Python :snake:, donde se analizaron variables como la edad, el sexo, el colesterol y la presión arterial.
+🚀 Estado del Proyecto
+✅ Proyecto Finalizado
 
-:rocket: Estado del Proyecto:
-✅ Finalizado
-
-:open_file_folder: Fuente de datos:
-Siddhartha, M. (2020). Heart disease dataset (comprehensive). IEEE Dataport. https://dx.doi.org/10.21227/dz4t-cm36
-https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive
-Adjunto en este repositorio como heart_statlog_cleveland_hungary_final.csv
-Adjunto documentación de variables perteneciente a la base de datos original: documentation.pdf
-
-:sparkles: Características Principales:
-:broom: Limpieza, Transformación de Datos, gestión de outliers y análisis de correlaciones con Python: Sprint 10 - Limpieza Python.ipynb
-:outbox_tray: Se genera archivo .csv para el análisis con PowerBI: enfermedadcard.csv
-:bar_chart: Modelado de datos y dashboard de PowerBI: Sprint 10 - Dashboard.pbix
-:page_facing_up: Artículo de investigación escrito a partir del análisis: Sprint 10 - Artículo.pdf
-:speech_balloon: Presentación de los hallazgos del análisis realizado: Sprint 10 - Yatmelis Freites.pdf
-:hammer_and_wrench: Herramientas Utilizadas:
-Python :snake:: Para la limpieza, transformación de datos y análisis preliminar.
-Power BI :bar_chart:: Para el modelado y visualización de los datos.
-:computer: Cómo Usarlo:
-:arrow_down: Clona este repositorio y asegúrate de tener instaladas las dependencias necesarias.
-:link: Carga el dataset desde el enlace proporcionado.
-:arrow_forward: Ejecuta los scripts en Python para limpiar y preparar los datos. Se generará un CSV con los datos limpios que usará posteriormente PowerBi.
-:file_folder: Abre el archivo de Power BI para explorar las visualizaciones e insights generados.
+📁 Fuente de Datos
+Referencia: Siddhartha, M. (2020). Heart disease dataset (comprehensive). IEEE Dataport. DOI:10.21227/dz4t-cm36
+Acceso al Dataset: Enlace a IEEE Dataport
+Archivo Adjunto: heart_statlog_cleveland_hungary_final.csv
+Documentación: documentation.pdf - Información sobre las variables de la base de datos original.
+✨ Características Principales
+🔍 Limpieza y Transformación de Datos: Procesamiento de datos, gestión de outliers y análisis de correlaciones, desarrollado en Python. Ver archivo: Sprint 10 - Limpieza Python.ipynb.
+📄 Exportación de Datos: Se genera un archivo .csv (enfermedadcard.csv) listo para el análisis en Power BI.
+📊 Modelado y Visualización: Dashboard interactivo creado en Power BI. Ver archivo: Sprint 10 - Dashboard.pbix.
+📝 Artículo de Investigación: Documento escrito a partir del análisis realizado, disponible en Sprint 10 - Artículo.pdf.
+📈 Presentación de Resultados: Resumen en PDF de los hallazgos, ver Sprint 10 - Yatmelis Freites.pdf.
+🛠️ Herramientas Utilizadas
+Python 🐍: Limpieza, transformación de datos y análisis exploratorio.
+Power BI 📊: Modelado y visualización de los datos.
+🖥️ Cómo Usarlo
+Clonar el Repositorio: Descarga este repositorio en tu máquina local.
+Cargar el Dataset: Asegúrate de tener el dataset adjunto o descárgalo desde el enlace proporcionado.
+Ejecutar los Scripts en Python: Corre los scripts de Python para la limpieza y preparación de los datos. Esto generará un archivo .csv con datos procesados para su análisis en Power BI.
+Explorar en Power BI: Abre el archivo de Power BI (Sprint 10 - Dashboard.pbix) para visualizar las conclusiones y gráficos interactivos generados.
